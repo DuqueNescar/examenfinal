@@ -1,3 +1,3 @@
 # examenfinal
 
-Mis archivops los guarde en el master, favor de dirigirse ahi 
+Mis archivos los guarde en el maestro, favor de dirigirse ahi 
